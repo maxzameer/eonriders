@@ -4,8 +4,8 @@ from corsheaders.defaults import default_headers
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'dfbkajfshf74rhfkjfiaf938u09f0iefhoih4eif03uf0e9foi3403f'
-REFRESH_SECRET_KEY = '0zjafkajbfasdfaj834hnfeie0iaf0ebdcuagfbokladnckjfi3498kasfhodifhasoida'
+SECRET_KEY = 'xyz'
+REFRESH_SECRET_KEY = 'xyz'
 
 DEBUG = True
 
