@@ -1,0 +1,3 @@
+[submodule "path/to/eonwebapp"]
+	path = path/to/eonwebapp
+	url = https://github.com/maxzameer/eonriders
